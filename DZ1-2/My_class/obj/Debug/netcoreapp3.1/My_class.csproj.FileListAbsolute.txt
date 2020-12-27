@@ -1,0 +1,9 @@
+C:\Users\1пк\source\repos\My_class\obj\Debug\netcoreapp3.1\My_class.csprojAssemblyReference.cache
+C:\Users\1пк\source\repos\My_class\obj\Debug\netcoreapp3.1\My_class.AssemblyInfoInputs.cache
+C:\Users\1пк\source\repos\My_class\obj\Debug\netcoreapp3.1\My_class.AssemblyInfo.cs
+C:\Users\1пк\source\repos\My_class\obj\Debug\netcoreapp3.1\My_class.csproj.CoreCompileInputs.cache
+C:\Users\1пк\source\repos\My_class\bin\Debug\netcoreapp3.1\My_class.deps.json
+C:\Users\1пк\source\repos\My_class\bin\Debug\netcoreapp3.1\My_class.dll
+C:\Users\1пк\source\repos\My_class\bin\Debug\netcoreapp3.1\My_class.pdb
+C:\Users\1пк\source\repos\My_class\obj\Debug\netcoreapp3.1\My_class.dll
+C:\Users\1пк\source\repos\My_class\obj\Debug\netcoreapp3.1\My_class.pdb

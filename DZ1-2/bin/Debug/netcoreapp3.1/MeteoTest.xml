@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<MeteoSystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SName>Тестовая линия</SName>
+  <SNumber>42</SNumber>
+  <Line>
+    <LNumber>0</LNumber>
+    <Sensor>
+      <Pressure>1</Pressure>
+      <Viscosity>2</Viscosity>
+      <Density>3</Density>
+      <T>4</T>
+      <QuantityMax>5</QuantityMax>
+      <QuantityMin>6</QuantityMin>
+      <ShortName>Проба</ShortName>
+    </Sensor>
+  </Line>
+</MeteoSystem>
